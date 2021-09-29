@@ -1,0 +1,7 @@
+﻿  Manejador_De_Archivo.cpp
+C:\Users\x\source\repos\Registros de longitud fija\Registros de longitud fija\Manejador_De_Archivo.cpp(72,30): warning C4244: '=': conversión de 'std::streamoff' a 'int'; posible pérdida de datos
+C:\Users\x\source\repos\Registros de longitud fija\Registros de longitud fija\Manejador_De_Archivo.cpp(104,30): warning C4244: '=': conversión de 'std::streamoff' a 'int'; posible pérdida de datos
+C:\Users\x\source\repos\Registros de longitud fija\Registros de longitud fija\Manejador_De_Archivo.cpp(190,30): warning C4244: '=': conversión de 'std::streamoff' a 'int'; posible pérdida de datos
+  Registros de longitud fija.cpp
+  Generando código...
+  Registros de longitud fija.vcxproj -> C:\Users\x\source\repos\Registros de longitud fija\Debug\Registros de longitud fija.exe
